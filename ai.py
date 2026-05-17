@@ -203,4 +203,4 @@ with gr.Blocks(css=custom_css, theme=gr.themes.Soft()) as demo:
 # =========================
 # Launch App
 # =========================
-demo.launch(server_name="0.0.0.0", server_port=7860)
+demo.launch()
